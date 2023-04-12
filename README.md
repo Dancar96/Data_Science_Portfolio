@@ -15,10 +15,10 @@ A repositiory of the projects I worked on or currently working on. The projects 
   * This project has been realized using Python and the libraries: NumPy, Pandas, MatplotLib, Seaborn and Plotly. It has also been used Selenium and Beautiful Soup 4 for Web Scraping.
   * By analising the music industry sales trend and analyzing by sales, awards, gold and platinum records, Grammys, charts, Spotify plays, hits and tenure on The Hot 100 Billboard and Rolling Stones magazine rankings, an analysis has been made to end the debate of who is the best, most influencial musician of all time.
 
-  ![](//Images/Captura2.PNG)
-  ![](//Images/Captura3.PNG)
-  ![](//Images/Captura5.PNG)
-  ![](//Images/Captura6.PNG)
+  ![](https://github.com/Dancar96/Data_Science_Portfolio/blob/main/Images/Captura2.PNG)
+  ![](https://github.com/Dancar96/Data_Science_Portfolio/blob/main/Images/Captura3.PNG)
+  ![](https://github.com/Dancar96/Data_Science_Portfolio/blob/main/Images/Captura5.PNG)
+  ![](https://github.com/Dancar96/Data_Science_Portfolio/blob/main/Images/Captura6.PNG)
 
   
   ## [Project 3: **🎣 Fishing Phishing 🎣** - Machine Learning Aplication (Under Construction)](https://github.com/Dancar96/-Fishing-Phishing-)
