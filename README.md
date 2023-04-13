@@ -3,13 +3,13 @@
 A repositiory of the projects I worked on or currently working on. The projects are written in Python (Jupyter Notebook). Feel free to click on the projects to see full analysis and code.
 
 
-  ## [Project 1: **:bomb::passenger_ship: Battleship :passenger_ship::bomb:**](https://github.com/Dancar96/Battleship_Project) - ![Badge Ended](https://img.shields.io/badge/status-Ended-blue)
+  ## [Project 1: **:bomb::passenger_ship: Battleship :passenger_ship::bomb:**](https://github.com/Dancar96/Battleship_Project) - ![Badge Ended](https://img.shields.io/badge/Status-Ended-blue)
   
   * First programming project with Python in partnership with https://github.com/laura-pc of the famous classic game 'Battleship'.
   * This project has been realized using the NumPy Python library. The boards are generated in the terminal.
   
   
-  ## [Project 2: **EDA Project: :guitar: Who's the greatest musician of all time :guitar:**](https://github.com/Dancar96/Best-Musician-Ever-EDA) - ![Badge Ended](https://img.shields.io/badge/status-Ended-blue)
+  ## [Project 2: **EDA Project: :guitar: Who's the greatest musician of all time :guitar:**](https://github.com/Dancar96/Best-Musician-Ever-EDA) - ![Badge Ended](https://img.shields.io/badge/Status-Ended-blue)
 
   * First EDA trying to discover with data who is the greatests singer or music band of all time by Daniel Carrera
   * This project has been realized using Python and the libraries: NumPy, Pandas, MatplotLib, Seaborn and Plotly. It has also been used Selenium and Beautiful Soup 4 for Web Scraping.
@@ -21,7 +21,7 @@ A repositiory of the projects I worked on or currently working on. The projects 
   ![](https://github.com/Dancar96/Data_Science_Portfolio/blob/main/Images/Captura6.PNG)
 
   
-  ## [Project 3: **🎣 Fishing Phishing 🎣** - Machine Learning Application](https://github.com/Dancar96/-Fishing-Phishing-) - ![Badge In Development](https://img.shields.io/badge/status-In%20Development-brightgreen)
+  ## [Project 3: **🎣 Fishing Phishing 🎣** - Machine Learning Application](https://github.com/Dancar96/-Fishing-Phishing-) - ![Badge In Development](https://img.shields.io/badge/Status-In%20Development-brightgreen)
 
   * An online tool project for unmask non-legitimate URL's.
   * This first project has been realized using Python and the libraries: NumPy, Pandas, MatplotLib, RegEx and Scikit-Learn.  
