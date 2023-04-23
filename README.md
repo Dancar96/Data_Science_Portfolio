@@ -26,3 +26,8 @@ A repositiory of the projects I worked on or currently working on. The projects 
   * A ML project for unmask non-legitimate URL's.
   * This first project has been realized using Python and the libraries: NumPy, Pandas, MatplotLib and Scikit-Learn.  
   * For the choice of the ML model, a comparison of supervised language models was made according to their Recall evaluation metric. It has been decided to use this metric since it is the most optimal for our data, given that if we are going to classify URL's as legitimate or phishing, we must prioritize that no phishing URL is classified as legitimate, it is preferable that if the prediction is wrong it is because it classifies a legitimate URL as phishing than the other way around.
+  * After the comparison of models according to their recall score, the model chosen is 'XGBClassifier' with the optimal hyperparameters for the dataset according to the 'GridSearchCV' performed.
+  * The model is learned and then saved as a pickle file.
+  
+  ![Corr_Martrix](https://github.com/Dancar96/Data_Science_Portfolio/blob/main/Images/EDA%20Phishing%203.PNG)
+  ![Model_Comparison](https://github.com/Dancar96/Data_Science_Portfolio/blob/main/Images/Model%20Comparison.PNG)
