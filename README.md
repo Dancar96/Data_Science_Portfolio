@@ -21,7 +21,7 @@ A repositiory of the projects I worked on or currently working on. The projects 
   ![](https://github.com/Dancar96/Data_Science_Portfolio/blob/main/Images/Captura6.PNG)
 
   
-  ## [Project 3: **🎣 Fishing Phishing 🎣** - Machine Learning Application](https://github.com/Dancar96/-Fishing-Phishing-) - ![Badge In Development](https://img.shields.io/badge/Status-In%20Development-brightgreen)
+  ## [Project 3: **🎣 Antiphishing Model 🎣** - Machine Learning Application](https://github.com/Dancar96/-Fishing-Phishing-) - ![Badge In Development](https://img.shields.io/badge/Status-In%20Development-brightgreen)
 
   * An online tool project for unmask non-legitimate URL's.
   * This first project has been realized using Python and the libraries: NumPy, Pandas, MatplotLib, RegEx and Scikit-Learn.  
